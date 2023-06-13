@@ -26,7 +26,7 @@ body {
         color: white;
         background-size: cover;
         background-repeat: no-repeat;
-        background-image: url("5d73eaabb25e3805de1f8cdea7df4a42--tumblr-backgrounds-iphone-phone-wallpapers-iphone-wallaper-tumblr");
+        background-image: url("photo_2023-06-13_15-15-51.jpg");
         overflow:  hidden;
         }
 
@@ -35,6 +35,7 @@ body {
         width: 100%;
         height: 100%;
         background: #5961f9;
+        opacity: .7;
         overflow: hidden;
         box-sizing: border-box;
     }
