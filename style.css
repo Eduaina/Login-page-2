@@ -120,8 +120,8 @@ display: inline-block;
     position: relative;    
 }
 label::before{
-font-family:FontAWESOME;
-content: icon"/fooc";
+font-family:FontAwesome;
+content: "/f00c";
 background: transparent;
 border-radius: 4px;
 border: 3px solid #70f570;
@@ -131,7 +131,7 @@ position: absolute;
 }
 label :hover ::before {
     font-family: FontAwesome;
-    content: icon'/f00c';
+    content:"/f00c";
     color: white;
     cursor: pointer;
     background: #70f570;
